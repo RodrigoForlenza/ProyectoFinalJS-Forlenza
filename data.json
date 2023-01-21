@@ -1,0 +1,24 @@
+
+[ 
+        {
+        "id": 1,
+        "nombre": "Gyoza",
+        "precio": 500,
+        "imagen": "./imgs/gyoza.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Tempura",
+        "precio": 700,
+        "imagen": "./imgs/istockphoto-622439992-612x612.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Ramen",
+        "precio": 900,
+        "imagen": "./imgs/istockphoto-511793034-612x612.jpg"
+    }
+]
+
